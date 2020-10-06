@@ -1,1 +1,1 @@
-
+![Pipeline Image](../images/pipelines)
